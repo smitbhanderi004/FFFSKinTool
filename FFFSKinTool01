@@ -2,9 +2,10 @@
    "app_redirectOtherAppStatus":"0",
    "app_newPackageName":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapps15.freestarutsavserialsapp",
    "app_AppOpenAdStatus":"0",
-   "qureka":"https://u.technicalbuz.com/zsmit/",
+   "qureka":"https://241.set.qureka.com/",
    "qureka_splash":"0",
    "qureka_status":"0",
+   "qureka_dailog":"1",
    "more_app":"https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/db.json",
    "admob_showAdStatus":"0",
    "AppID":"ca-app-pub-5517092987757413~8240781391",
@@ -13,10 +14,10 @@
    "Admob_Native":"ca-app-pub-3940256099942544/2247296110",
    "AppOpen":"ca-app-pub-3940256099942544/3419835294",
    "topon_showStatus":"1",
-   "topon_appid":"a62db79621db20",
-   "topon_appkey":"45114a1c2bb2ea026b7aa4e9480980f5",
-   "topon_banner":"b62db7980bc7fe",
-   "topon_inter1":"b62db7980e351e",
-   "topon_inter2":"b62db7980e351e",
-   "topon_native":"b62db798179d2a"
+   "topon_appid":"a632d32d02d49f",
+   "topon_appkey":"704e0c695c3e5c8cf661a5611b4d141a",
+   "topon_banner":"",
+   "topon_inter1":"",
+   "topon_inter2":"",
+   "topon_native":""
 }
